@@ -1,0 +1,1 @@
+{"name":"Local: LongestSubarray","url":"/home/shwky/problem-solving/Greedy/LongestSubarray.cpp","tests":[{"id":1656606473380,"input":"4 2\n2 2 2 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shwky/problem-solving/Greedy/LongestSubarray.cpp","group":"local","local":true}

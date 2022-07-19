@@ -1,0 +1,1 @@
+{"name":"Local: Dpoints","url":"/home/shwky/problem-solving/Greedy/Dpoints.cpp","tests":[{"id":1656651703613,"input":"4 3\n0 3\n3 2\n4 0\n4 10","output":"13"},{"id":1656651730973,"input":"3 3\n0 0\n4 5\n8 2","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shwky/problem-solving/Greedy/Dpoints.cpp","group":"local","local":true}

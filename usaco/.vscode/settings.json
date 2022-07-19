@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp"
+    }
+}

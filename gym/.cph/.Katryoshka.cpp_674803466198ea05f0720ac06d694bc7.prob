@@ -1,0 +1,1 @@
+{"name":"Local: Katryoshka","url":"/home/shwky/problem-solving/gym/Katryoshka.cpp","tests":[{"id":1658174770202,"input":"4\n1 2 3\n0 11 2\n14 21 23\n90 24 89","output":"Case 1: 1\nCase 2: 0\nCase 3: 14\nCase 4: 57"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shwky/problem-solving/gym/Katryoshka.cpp","group":"local","local":true}
