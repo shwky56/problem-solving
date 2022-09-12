@@ -1,0 +1,3 @@
+exports.firstModul = () => {
+    return Date();
+}

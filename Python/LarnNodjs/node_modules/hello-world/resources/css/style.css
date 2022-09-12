@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  -webkit-text-size-adjust:none;
+}
+
+body {
+  overflow: hidden;
+  font-size: 500%;
+  height: 100%;
+  margin: 0;
+  padding-top: 20%;
+  font-family: Helvetica, sans-serif;
+  background: #333;
+  background: #111414 no-repeat fixed center top -moz-radial-gradient(top,#2a2e30,#111414);
+  background: #111414 no-repeat fixed top center -webkit-gradient(radial, center top, 0, center top, 600, from(#2a2e30), to(#111414));
+  color: #fff;
+  text-align: center;
+  text-shadow: #444 1px 1px 5px;
+}
+
